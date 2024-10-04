@@ -3,7 +3,7 @@
 /* let quantidadePets = prompt(Number("Quantos bichinhos de estimação você tem?"));
 
 if (quantidadePets === 0) {
-    alert("Que pena! Você pode adotar um pet!");
+    console.log("Que pena! Você pode adotar um pet!");
     
 } else {
     var nomesPets = [];
@@ -11,7 +11,7 @@ if (quantidadePets === 0) {
         var nome = prompt("Digite o nome do seu pet " + (i + 1) + ":");
         nomesPets.push(nome);
     }
-    alert("Os nomes dos seus pets são: " + nomesPets.join(", "));
+    console.log("Os nomes dos seus pets são: " + nomesPets.join(", "));
 
 console.log(nomesPets);
 } */ 
