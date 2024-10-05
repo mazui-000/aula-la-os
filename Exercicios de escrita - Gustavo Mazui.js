@@ -18,7 +18,7 @@ console.log(nomesPets);
 
 //////////////////////Exercicio de Escrita 2 
 
-let arrayOriginal = [54,34,39,23,90,21,17]
+/*let arrayOriginal = [54,34,39,23,90,21,17]
     for(let numero of arrayOriginal){
         console.log (numero)
     }
@@ -57,4 +57,23 @@ console.log ("divididos por 10:")
     }
     console.log(newArray); 
     }
-    novaArrayStrings(arrayOriginal)
+    novaArrayStrings(arrayOriginal) */
+
+    // E
+
+    /*function encontrarMaiorMenor(array) {
+    let maior = array[0];
+    let menor = array[0];
+
+    for (let i = 1; i < array.length; i++) {
+        if (array[i] > maior) {
+            maior = array[i];
+        }
+        if (array[i] < menor) {
+            menor = array[i];
+         }
+      }
+    console.log("Maior número:", maior);
+    console.log("Menor número:", menor);
+    }
+    encontrarMaiorMenor(arrayOriginal); */ 
